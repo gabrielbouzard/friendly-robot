@@ -1,0 +1,2 @@
+# friendly-robot
+Angular templates
